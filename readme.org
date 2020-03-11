@@ -2,6 +2,6 @@
 In krita ~Settings -> Manage Resources -> Import Presets~
 
 * Uninstall
-On windows remove from ~../Users/USER/AppData/Roaming/krita/paintoppresets~
+On windows remove from: ~../Users/USER/AppData/Roaming/krita/paintoppresets~
 
 And maybe delete the entire config dir: ~../Users/USER/AppData/Roaming/krita/~
